@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1688388565 source:c:\users\seweryn\desktop\studia\semestr 2\projekty\szyfrowaniecodeblocks\main.cpp
+	"szyfrowanie.h"
+
+1686685277 c:\users\seweryn\desktop\studia\semestr 2\projekty\szyfrowaniecodeblocks\szyfrowanie.h
+	<iostream>
+	<string>
+	<vector>
+	<ctime>
+	<cmath>
+	<random>
+	<chrono>
+	<fstream>
+
+1688388706 source:c:\users\seweryn\desktop\studia\semestr 2\projekty\szyfrowaniecodeblocks\szyfrowanie.cpp
+	"szyfrowanie.h"
+
